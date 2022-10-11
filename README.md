@@ -39,3 +39,6 @@ Enviar os arquivos para o repositório
 
 Baixar os arquivos do repositório
 `git pull origin main`
+
+Trocar de branchs
+`git checkout NOME_BRANCH`
